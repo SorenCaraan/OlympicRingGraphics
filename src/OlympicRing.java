@@ -1,7 +1,8 @@
+// @author Soren Caraan
+
 import java.awt.Graphics2D;
 import java.awt.Color;
 import java.awt.geom.Ellipse2D;
-import javax.swing.*;
 
 public class OlympicRing {
 

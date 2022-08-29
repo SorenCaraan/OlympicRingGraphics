@@ -1,3 +1,5 @@
+// @author Soren Caraan
+
 import javax.swing.JFrame;
 
 public class OlympicRingViewer {
